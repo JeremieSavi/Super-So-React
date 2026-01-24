@@ -2,7 +2,7 @@ function Section1(){
 
     return(
         <>
-            <div className="py-14">
+            <div className="py-14 ">
                 <div className="flex flex-wrap justify-around">
                     <div className="w-[40%] text-center">
                         <img src="/image.png" alt=""/>

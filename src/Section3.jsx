@@ -3,8 +3,8 @@ function Section3(){
     return(
         <>
             <div className="flex gap-10 flex-wrap bg-black text-white py-25">
-                <h1 className="text-5xl font-bold mx-auto">How to use Notion as a website</h1>
-                <div className="flex flex-col lg:flex-row justify-evenly items-center gap-20 text-white px-10">     
+                <h1 className="text-4xl md:text-5xl font-bold text-center mx-auto">How to use Notion as a website</h1>
+                <div className="flex flex-col lg:flex-row justify-evenly items-center gap-10 md:gap-10 text-white px-2 md:px-10">     
                     <div className="flex flex-col gap-2 w-[70%]">
                         <img src="/step1-notion.svg" alt=""/>
                         <h4>Step 1</h4>

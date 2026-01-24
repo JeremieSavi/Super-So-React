@@ -2,7 +2,7 @@ function Section7(){
 
 return(
     <>
-    <section className="flex flex-col md:justify-envenly md:flex-row gap-20 py-20">
+    <section className="flex flex-col md:justify-envenly items-center lg:py-0 lg:gap-0 lg:flex-row gap-20 py-20">
         <div className="px-20 leading-10 md:w-[50%]">
             <img className="w-18" src="x3.svg" alt=""/>
             <h1 className="text-5xl font-bold md:text-4xl">World-class Performance</h1>
